@@ -1,28 +1,28 @@
 {
   "page-name": "Commands",
-  "seo-description": "Learn about essential 6b6t commands including /tpa, /home, /hotspot, /skin, /vote, /buildermode, /msg and more.",
+  "seo-description": "Erfahre mehr über die wichtigtsen 6b6t Commands wie /tpa, /home, /hotspot, /skin, /vote, /buildermode, /msg und viele weitere.",
   "sections": {
     "commandsList": {
-      "bestMatches": "Best matches",
-      "commandsList": "COMMANDS LIST",
-      "availableServerCommands": "Available Server Commands",
-      "useTheFiltersToFindTheCommandYouNeed": "Use the filters to find the command you need by category, rank requirement, or command name.",
-      "search": "Search",
-      "searchCommands": "Search commands...",
-      "category": "Category",
-      "rankRequirement": "Rank requirement",
+      "bestMatches": "Beste Übereinstimmungen",
+      "commandsList": "Liste aller Commands ",
+      "availableServerCommands": "Verfügbare Servercommands",
+      "useTheFiltersToFindTheCommandYouNeed": "Verwende den Filter um die Commands nach Kategorie, benötigtem Rang oder Name zu durchsuchen.",
+      "search": "Suche",
+      "searchCommands": "Suche Commands...",
+      "category": "Kategorie",
+      "rankRequirement": "Benötigter Rang",
       "command": "Command",
-      "description": "Description",
-      "example": "Example",
-      "rank": "Rank",
-      "noCommandsFoundMatchingYourFilters": "No commands found matching your filters.",
+      "description": "Beschreibung",
+      "example": "Beispiel",
+      "rank": "Rang",
+      "noCommandsFoundMatchingYourFilters": "Kein Command gefunden, der deinem Filter entspricht.",
       "premiumCommands": "Premium Commands",
-      "useTheRankFilterAboveToPreviewCommandsUnlocked": "Use the rank filter above to preview commands unlocked by Prime, Prime Ultra, Elite, Elite Ultra, Apex, and Legend.",
-      "viewPremiumRanks": "View Premium Ranks"
+      "useTheRankFilterAboveToPreviewCommandsUnlocked": "Verwende den oberen Rang Filter, um die zusätzlichen Commands für Prime, Prime Ultra, Elite, Elite Ultra, Apex und Legend anzuschauen.",
+      "viewPremiumRanks": "Schau dir die Premium Ränge an."
     },
     "page": {
-      "text6b6tServerCommands": "6b6t Server Commands",
-      "completeListOfCommandsAvailableOnThe6b6tMinecraft": "Complete list of commands available on the 6b6t Minecraft anarchy server"
+      "text6b6tServerCommands": "6b6t Servercommands",
+      "completeListOfCommandsAvailableOnThe6b6tMinecraft": "Vollständige Liste aller verfügbaren Commands auf dem 6b6t Minecraft Anarchie Server"
     }
   }
 }
